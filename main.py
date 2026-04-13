@@ -1,5 +1,7 @@
 from bot import bot, dp
+from routers import root_router
 import asyncio
+
 
 
 async def main():
