@@ -1,5 +1,4 @@
 import aiogram
-from aiogram import Dispatcher
 from dotenv import load_dotenv
 from routers import root_router
 import os
